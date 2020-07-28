@@ -4,6 +4,9 @@
 
 (Be sure to click on it for the infinite scrolling version.)
 
+# Overview of Meine Arbeit an Github
+![](https://github-readme-stats.vercel.app/api?username=aloysiousBenoy&count_private=true&theme=dark&show_icons=true)
+
 ### What's this?
 
 This takes my GitHub contribution graph and uses it as the initial state for [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a popular cellular automaton that is often built by beginning software developers as an easy-to-implement but interesting piece of software.
