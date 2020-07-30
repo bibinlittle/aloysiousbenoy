@@ -4,7 +4,7 @@
 
 (Be sure to click on it for the infinite scrolling version.)
 # Übersicht meiner Beiträge zu Github :octocat:
-### Overview of Meine Arbeit an Github 
+### Overview of my contributions on Github 
 ![](https://github-readme-stats.vercel.app/api?username=aloysiousBenoy&count_private=true&theme=dark&show_icons=true)
 
 ### What's this?
