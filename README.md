@@ -1,10 +1,10 @@
-# My GitHub contributions as a Game of Life :octocat:
-
+# Mes contributions GitHub en tant que jeu de la vie:octocat:
+### My GitHub contributions as a Game of Life 
 [![GitHub Game of Life](https://github4life.herokuapp.com/aloysiousbenoy.gif?z=6)](https://github4life.herokuapp.com/aloysiousbenoy)
 
 (Be sure to click on it for the infinite scrolling version.)
-
-# Overview of Meine Arbeit an Github :octocat:
+# Übersicht meiner Beiträge zu Github :octocat:
+### Overview of Meine Arbeit an Github 
 ![](https://github-readme-stats.vercel.app/api?username=aloysiousBenoy&count_private=true&theme=dark&show_icons=true)
 
 ### What's this?
