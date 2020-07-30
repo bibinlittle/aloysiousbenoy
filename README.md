@@ -19,7 +19,7 @@ This uses a JavaScript library called [contributions](https://npmjs.com/contribu
 
 A simple Node.js application called [github4life](https://github.com/ethomson/github4life) -- so named because it takes a _GitHub_ contribution graph and turns it into a _4_ color Game of _Life_ -- renders this as an animated GIF.  When talking to GitHub's image caching service (camo) it will render 20 frames and then stop (so that the resulting image can actually be cached) but when you hit it with your web browser, it will render the game of life on-demand - infinitely continuing to deliver you the next state as a new frame in the GIF, forever.
 
-
+P.S. I don't know either French or German, It's just Google translate :wink:
 <!--
 **aloysiousBenoy/aloysiousbenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
